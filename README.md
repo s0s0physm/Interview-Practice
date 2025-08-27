@@ -74,5 +74,5 @@
       console.error("❌ Error while seeding:", err.message);
       process.exit(1);
     }
-  })();
+    })();
   
